@@ -1,4 +1,5 @@
 body {
+  background: url("/images/brick-background.jpg");
   font-family: sans-serif; }
   body img {
     width: 100%; }
