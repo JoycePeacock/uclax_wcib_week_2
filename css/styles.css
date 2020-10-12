@@ -27,10 +27,20 @@ h2 span {
   border: 0.5rem outset green;
   border-radius: 12px;
   margin: 2rem;
-  padding: 10px;
-  overflow-wrap: break-word; }
+  padding: 10px; }
 
 .circles {
   background: url("../images/circle_star.jpg");
   background-size: contain;
   padding: 50px; }
+
+a:link {
+  color: black;
+  background-color: white;
+  text-align: center;
+  font-size: 2em; }
+
+a:hover {
+  color: green;
+  background-color: white;
+  text-decoration: none; }
