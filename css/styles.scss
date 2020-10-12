@@ -13,13 +13,26 @@ article {
 	border: 0.5rem outset red;
   border-radius: 12px;
   margin: 2rem;
-padding: 15px;
+	padding: 30px;
 	}
 img {
-		width: 80%;
+		width: 75%;
 	}
 
 h2 {
 	font-size: 2rem;
 	text-shadow: 1px 1px 1px red;
 }
+h2 span {
+	background-color: white;
+	border: 0.5rem outset green;
+  border-radius: 12px;
+  margin: 2rem;
+	padding: 10px;
+	overflow-wrap: break-word;
+}
+.circles {
+		background: url("../images/circle_star.jpg");
+		background-size: contain;
+		padding: 50px;
+	}
