@@ -1,6 +1,23 @@
 body {
   background: url("../images/brick-background.jpg");
   text-align: center;
-  font-family: sans-serif; }
-  body img {
-    width: 100%; }
+  font-family: courier new, courier; }
+
+article {
+  columns: 2; }
+
+.box {
+  background-color: white;
+  text-align: left;
+  width: 90%;
+  border: 0.5rem outset red;
+  border-radius: 12px;
+  margin: 2rem;
+  padding: 15px; }
+
+img {
+  width: 80%; }
+
+h2 {
+  font-size: 2rem;
+  text-shadow: 1px 1px 1px red; }
